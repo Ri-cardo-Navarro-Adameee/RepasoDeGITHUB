@@ -23,7 +23,7 @@ break;
 
 case 3:
 T = a * b;
-cout<<""<<endl;
+cout<<"El Resultado es:"<<T<<endl;
 break;
 default:
     break;
